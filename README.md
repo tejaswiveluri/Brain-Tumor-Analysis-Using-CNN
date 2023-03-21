@@ -2,4 +2,7 @@
 Thesis project for Bachelors
 
 
-Using python neural networks concepts Convoulutional Neuaral networks, developed a imae processing algorithm to find the presence of Brain tumor with the help of MRI scans
+•	Collected about 50,000 MRI scans of the Brain from multiple sources.
+•	Transformed the Pixel rate and cleaned the images and stored them in matrix format.
+•	Implemented 5 layered Convolutional neural network model to find the presence of brain tumours. with the help of keras, TensorFlow, and pandas libraries in Python with an accuracy of 95.7%.  
+
